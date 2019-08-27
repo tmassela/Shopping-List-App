@@ -7,43 +7,18 @@ Shopping List App
 
 Motivation:  
 ------------
-This app was created to help the user find dinner recipe ideas based on two ingredients the user has on hand.  Results can be specified to have any calorie range provider by the user.  Ten results will be displayed below the form along with a suggested wine pairing.  The app is powered by the Edamam and Spoonacular APIs. 
+This is a useful application that can be used on the go to quickly create lists saving on the endless piles of paper lists sitting around a kitchen or office.  This app was created with the Javascript library, jQuery, and minimal CSS.  This interactive web app is a grocery list in which the user can add items, delete items or cross items off.  Key concepts:  event listeners, DOM traversal and manipulation, a11y considerations.  
 
 A Live Link:
 -------------------------------------
-<a href="https://tmassela.github.io/Dinner-Genius-App/">Dinner Genius App Live</a>
+<a href="https://tmassela.github.io/Shopping-List-App/">Shopping List App Live</a>
 
 Key Technologies:  
 ----------------
+-jQuery
+-Javascript
 -HTML
--CSS
--JavaScript
--jQuery  
-
-Author:
-----------------
-Tiffany Massela
-
-Special Acknowledgments:
-------------------------
-Her wonderful family of picky eaters."
-     alt="Screenshot"
-     style="float: left; margin-right: 10px;" /> 
-
-Motivation:  
-------------
-This app was created to help the user find dinner recipe ideas based on two ingredients the user has on hand.  Results can be specified to have any calorie range provider by the user.  Ten results will be displayed below the form along with a suggested wine pairing.  The app is powered by the Edamam and Spoonacular APIs. 
-
-A Live Link:
--------------------------------------
-<a href="https://tmassela.github.io/Dinner-Genius-App/">Dinner Genius App Live</a>
-
-Key Technologies:  
-----------------
--HTML
--CSS
--JavaScript
--jQuery  
+-CSS 
 
 Author:
 ----------------
